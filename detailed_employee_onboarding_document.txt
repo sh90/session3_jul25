@@ -1,0 +1,159 @@
+Employee Onboarding Document
+============================
+
+Welcome to the Company!
+-----------------------
+
+We’re thrilled to welcome you to our team. This onboarding document is designed to help you transition smoothly into your new role. It covers everything from company background to your first 90 days. Please read each section carefully.
+
+------------------------------------------------------------
+
+1. Company Introduction
+========================
+
+1.1 About the Company
+---------------------
+Founded in 2014, our company has grown from a small startup into a market leader in financial service. Our mission is to improve the lives of people, and we are committed to innovation, collaboration, and excellence.
+
+1.2 Our Vision and Values
+--------------------------
+- **Integrity**: We uphold honesty and transparency in all we do.
+- **Innovation**: We continuously strive to improve and lead in our field.
+- **Collaboration**: We believe in the power of teamwork.
+- **Customer Centricity**: Our customers are at the heart of our decision-making.
+
+1.3 Organizational Structure
+-----------------------------
+Our organization consists of several departments including Engineering, Sales, Marketing, HR, and Customer Support. Each department is led by a VP who reports directly to the CEO.
+
+------------------------------------------------------------
+
+2. Setting Up for Success
+==========================
+
+2.1 IT & Equipment
+------------------
+Your laptop and necessary accessories will be shipped or provided on your first day. You will receive instructions to log in to:
+- Company Email
+- VPN Access
+- Internal File Storage
+
+2.2 Tools and Platforms
+------------------------
+You will receive access to the following tools:
+- **Slack**: For team communication.
+- **JIRA**: For project and task tracking.
+- **GitHub**: For code repositories (engineering teams).
+- **HR Portal**: For managing time off, benefits, and policies.
+
+2.3 IT Support
+---------------
+If you encounter any technical issues, submit a ticket via the IT Helpdesk Portal. Emergency issues can be emailed directly to it-support@[company].com.
+
+------------------------------------------------------------
+
+3. Human Resources and Policies
+===============================
+
+3.1 Employee Handbook
+----------------------
+This document contains detailed policies on behavior, safety, dress code, and more. Please read it thoroughly and confirm your understanding.
+
+3.2 Payroll and Benefits
+-------------------------
+- Payroll is processed bi-weekly.
+- Health insurance, dental, and vision plans are available.
+- Retirement plans and stock options are offered based on your role and location.
+
+3.3 Leave Policies
+-------------------
+- **Vacation**: You are entitled to [X] days of paid vacation per year.
+- **Sick Leave**: [Y] days per year.
+- **Remote Work**: Available with prior approval from your manager.
+
+------------------------------------------------------------
+
+4. Security and Compliance
+==========================
+
+4.1 Security Orientation
+-------------------------
+You must complete a 30-minute security training video in your first week. This will include:
+- Password management
+- Secure browsing
+- Phishing awareness
+
+4.2 Access Control
+-------------------
+All internal systems are protected by multi-factor authentication (MFA). You are responsible for keeping your credentials secure.
+
+4.3 Confidentiality
+--------------------
+You are expected to maintain the confidentiality of internal data and customer information. Violations are taken seriously and may result in disciplinary action.
+
+------------------------------------------------------------
+
+5. Your First 90 Days
+=====================
+
+5.1 Week 1
+----------
+- Meet your onboarding buddy.
+- Attend department-specific training sessions.
+- Schedule a 1:1 with your manager to align on expectations.
+
+5.2 Month 1
+-----------
+- Join regular team standups.
+- Start contributing to small tasks or projects.
+- Get familiar with performance goals and feedback loops.
+
+5.3 Month 3
+-----------
+- Take ownership of a project.
+- Receive and discuss your 90-day performance review.
+- Share feedback on your onboarding experience.
+
+------------------------------------------------------------
+
+6. Training and Growth
+======================
+
+6.1 Learning Portal
+-------------------
+You will be given access to our internal Learning Portal, which includes:
+- Role-specific training modules
+- Compliance courses
+- Soft skills development
+
+6.2 Development Plan
+---------------------
+During your first month, work with your manager to set learning and development goals for the first quarter. These should align with your career path and business needs.
+
+------------------------------------------------------------
+
+7. Culture and Community
+========================
+
+7.1 Getting Involved
+--------------------
+- Join Slack channels based on your interests (e.g., #pets, #books).
+- Attend company-wide virtual or in-person events.
+
+7.2 Diversity, Equity, and Inclusion (DEI)
+------------------------------------------
+We are committed to creating an inclusive workplace where everyone feels welcome. Learn more about our DEI programs in the HR portal.
+
+7.3 Celebrating Success
+------------------------
+We use a peer recognition system to celebrate contributions. Use the #kudos Slack channel to recognize your teammates.
+
+------------------------------------------------------------
+
+Conclusion
+==========
+
+We’re excited to see what you’ll accomplish with us. Use this document as a reference during your onboarding, and don’t hesitate to reach out with questions.
+
+Once again, welcome aboard!
+
